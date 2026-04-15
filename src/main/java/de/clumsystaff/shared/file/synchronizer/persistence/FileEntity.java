@@ -18,8 +18,6 @@ public class FileEntity {
         return name;
     }
 
-    ;
-
     public FileEntity setName(String name) {
         this.name = name;
         return this;
